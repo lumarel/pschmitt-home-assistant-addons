@@ -9,3 +9,8 @@
 ### Added
 
 - Make TLS PSK variables configurable
+- Zabbix Agent 2 plugins for PostgreSQL and MongoDB
+
+### Removed
+
+- Due to the addition of the Zabbix Agent 2 plugins i386 and armhf support had to be removed
