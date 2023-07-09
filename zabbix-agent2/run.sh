@@ -16,8 +16,8 @@ sed -i 's@^#\?\s\?\(ServerActive\)=.*@\1='"${ZABBIX_SERVER_ACTIVE}"'@' "${ZABBIX
 sed -i 's/^#\?\s\?\(Hostname\)=.*$/\1='"${ZABBIX_HOSTNAME}"'/' "${ZABBIX_CONFIG_FILE}"
 
 # Add TLS PSK config if variables are used
-if [ -n "$ZABBIX_TLSPSK_IDENTITY" ]; then
-  if [ -n "$ZABBIX_TLSPSK_SECRET" ]; then
+if [ -z "$ZABBIX_TLSPSK_IDENTITY" ]; then
+  if [ -z "$ZABBIX_TLSPSK_SECRET" ]; then
     ZABBIX_TLSPSK_SECRET_FILE=/etc/zabbix/tls_secret
     echo "$ZABBIX_TLSPSK_SECRET" > "${ZABBIX_TLSPSK_SECRET_FILE}"
     sed -i 's@^#\?\s\?\(TLSConnect\)=.*@\1='"psk"'@' "${ZABBIX_CONFIG_FILE}"
