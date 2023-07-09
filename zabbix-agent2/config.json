@@ -30,6 +30,8 @@
   "schema": {
     "server": "str",
     "serveractive": "str",
-    "hostname": "str"
+    "hostname": "str",
+    "tlspskidentity": "str?",
+    "tlspsksecret": "str?"
   }
 }
