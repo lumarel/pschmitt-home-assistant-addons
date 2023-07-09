@@ -14,7 +14,7 @@
   "privileged": [
     "NET_ADMIN"
   ],
-  "image": "pschmitt/home-assistant-addon-{arch}-keepalived",
+  "image": "lumarel/home-assistant-addon-{arch}-keepalived",
   "options": {
     "interface": "eth0",
     "password": "changeme",

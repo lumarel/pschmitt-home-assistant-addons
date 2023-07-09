@@ -1,6 +1,6 @@
 {
   "name": "picamera",
-  "image": "pschmitt/home-assistant-addon-{arch}-picamera",
+  "image": "lumarel/home-assistant-addon-{arch}-picamera",
   "arch": [
     "armhf",
     "aarch64"
