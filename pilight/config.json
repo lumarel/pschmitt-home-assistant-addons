@@ -1,5 +1,5 @@
 {
-  "image": "pschmitt/home-assistant-addon-{arch}-pilight",
+  "image": "lumarel/home-assistant-addon-{arch}-pilight",
   "arch": [
     "amd64",
     "aarch64",

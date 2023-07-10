@@ -1,5 +1,5 @@
 {
-  "image": "pschmitt/home-assistant-addon-{arch}-tailscale",
+  "image": "lumarel/home-assistant-addon-{arch}-tailscale",
   "name": "Tailscale",
   "version": "1.44.0",
   "slug": "tailscale",
