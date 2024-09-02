@@ -21,7 +21,7 @@
   "ports": {
     "10050/tcp": 10050
   },
-  "image": "pschmitt/home-assistant-addon-{arch}-zabbix-agent",
+  "image": "lumarel/home-assistant-addon-{arch}-zabbix-agent",
   "options": {
     "server": "zabbix-server.local",
     "serveractive": "zabbix-server.local",
