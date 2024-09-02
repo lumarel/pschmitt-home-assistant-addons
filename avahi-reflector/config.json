@@ -10,7 +10,7 @@
     "amd64",
     "i386"
   ],
-  "image": "pschmitt/home-assistant-addon-{arch}-avahi-reflector",
+  "image": "lumarel/home-assistant-addon-{arch}-avahi-reflector",
   "startup": "application",
   "boot": "auto",
   "options": {

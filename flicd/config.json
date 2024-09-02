@@ -1,5 +1,5 @@
 {
-  "image": "pschmitt/home-assistant-addon-{arch}-flicd",
+  "image": "lumarel/home-assistant-addon-{arch}-flicd",
   "name": "flicd",
   "arch": [
     "armhf",
