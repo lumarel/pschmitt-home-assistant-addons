@@ -1,3 +1,78 @@
+  # 1.72.1
+  - Update tailscale to 1.72.1
+
+  # 1.72.0
+  - Update tailscale to 1.72.0
+
+  # 1.70.0
+  - Update tailscale to 1.70.0
+
+  # 1.68.2
+  - Update tailscale to 1.68.2
+
+  # 1.68.0
+  - Update tailscale to 1.68.0
+
+  # 1.66.4
+  - Update tailscale to 1.66.4
+
+  # 1.66.1
+  - Update tailscale to 1.66.1
+
+  # 1.66.0
+  - Update tailscale to 1.66.0
+
+  # 1.64.2
+  - Update tailscale to 1.64.2
+
+  # 1.64.1
+  - Update tailscale to 1.64.1
+
+  # 1.64.0
+  - Update tailscale to 1.64.0
+
+  # 1.62.1
+  - Update tailscale to 1.62.1
+
+  # 1.62.0
+  - Update tailscale to 1.62.0
+
+  # 1.60.1
+  - Update tailscale to 1.60.1
+
+  # 1.60.0
+  - Update tailscale to 1.60.0
+
+  # 1.58.2
+  - Update tailscale to 1.58.2
+
+  # 1.58.0
+  - Update tailscale to 1.58.0
+
+  # 1.56.1
+  - Update tailscale to 1.56.1
+
+  # 1.54.1
+  - Update tailscale to 1.54.1
+
+  # 1.54.0
+  - Update tailscale to 1.54.0
+
+  # 1.52.0
+  - Update tailscale to 1.52.0
+
+  # 1.50.1
+  - Update tailscale to 1.50.1
+
+  # 1.48.2
+  - Update tailscale to 1.48.2
+
+  # 1.46.1
+  - Update tailscale to 1.46.1
+
+  # 1.44.2
+  - Update tailscale to 1.44.2
+
   # 1.44.0
   - Update tailscale to 1.44.0
 
